@@ -1,0 +1,8 @@
+- [ ] Finish [linux upskill challenge](https://linuxupskillchallenge.org/)
+- [ ] Finish [sadservers](https://sadservers.com/) challenges
+- [ ] Try [container networking lab](https://labs.iximiuz.com/tutorials/container-networking-from-scratch)
+- [ ] Try [overthewire games](https://overthewire.org/wargames/)
+- [ ] Read about [http3](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [ ] Follow tutorial to [create dynamic pseudo 3D map in javascript](https://www.youtube.com/watch?v=5iHejdqYIa8)
+- [ ] Finish [10 days of statistics challenge](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+- [ ] Start reading book about docker
