@@ -1,5 +1,5 @@
 ---
-date: 2024-01-23
+date: 2024-01-24
 topic: Over The Wire Wargames - Bandit
 tags: security, technical, wargames
 ---
