@@ -28,4 +28,7 @@ I completed the debugging refresher set of challenges today, it teaches about th
 set disassembly-flavor intel
 ```
 
+* You can set variable when using `gdb` using the `set` command. for example: `set $local_var = 0x1234`.
+* You can also print the value of the variable using the `print` command. for example: `print $local_var`, or to format it in hex: `print /x $local_var`.
+
 # Ideas to Explore in the Future
